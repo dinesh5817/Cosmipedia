@@ -186,7 +186,7 @@ a:active {
         padding: 8px 0;
     }
     .navbar ul {
-        gap: 10px;
+        gap: 6px;
         padding: 8px 12px;
         width: calc(100% - 24px);
         max-width: none;
